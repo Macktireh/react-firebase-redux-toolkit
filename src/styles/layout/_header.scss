@@ -30,6 +30,9 @@
           filter: brightness(135%);
         }
       }
+      button.active{
+        background-color: $color1;
+      }
     }
     .signup-container,
     .login-container {
